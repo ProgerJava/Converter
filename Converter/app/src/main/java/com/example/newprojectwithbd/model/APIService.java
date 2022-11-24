@@ -11,7 +11,7 @@ public interface APIService {
     String example =  "live?source=USD&currencies=RUB%2CBYN%2CUAH";
 
 
-    @Headers("apikey: rbvrxRJcjwP4gwCQ4Acb37ZyQJGRUG6p")
+    @Headers("apikey: your key")
     @GET("live")
     Call<PojoClass> getInfoSNG(@Query("source") String currencies,
                                @Query("currencies") String request);
