@@ -24,6 +24,7 @@ Application to get the current📈exchange rate📊
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40"
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/sqlite.svg" title="SQLite" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/sqlite.svg" title="SQLite" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 </div>
 <li>Retroafit library</li>
 <li>Currency Data API</li>
